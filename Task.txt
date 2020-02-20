@@ -1,0 +1,24 @@
+Problem 1:-
+Input:-
+8
+27 1 87 12 21 22 34 26
+Input:-
+1 12 21 22 87 34 27 26
+
+Problem 2:-
+
+7
+1 2 3 2 2 4 5
+2
+Output:-
+1 3 3 6 8 10 5
+Hint :- Whenever the Target item is found in the list, then print the output as multiplication of previous and next number.
+
+
+Problem 3:-
+7
+1 2 3 2 2 4 2
+2
+Output:-
+!! !!!! !!!!! !!!!!!!
+
